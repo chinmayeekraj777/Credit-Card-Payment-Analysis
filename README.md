@@ -29,3 +29,6 @@ Dataset source: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+c
 The dashboard helps explore customer default patterns across age groups and education categories. These insights can support better understanding of credit risk and repayment behaviour.
 ## Dashboard Screenshot
 
+## Dashboard Screenshot
+
+![Credit Card Default Risk Analysis Dashboard](credit-card-dashboard.png)
